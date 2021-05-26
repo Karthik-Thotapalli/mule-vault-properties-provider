@@ -1,9 +1,9 @@
-package com.avioconsulting.mule.vault.provider.api;
+package com.hackmatters.mule.vault.provider.api;
 
-import com.avioconsulting.mule.vault.provider.api.exception.EmptyEnvironmentVariableException;
-import com.avioconsulting.mule.vault.provider.api.exception.SecretNotFoundException;
-import com.avioconsulting.mule.vault.provider.api.exception.UnknownVaultException;
-import com.avioconsulting.mule.vault.provider.api.exception.VaultAccessException;
+import com.hackmatters.mule.vault.provider.api.exception.EmptyEnvironmentVariableException;
+import com.hackmatters.mule.vault.provider.api.exception.SecretNotFoundException;
+import com.hackmatters.mule.vault.provider.api.exception.UnknownVaultException;
+import com.hackmatters.mule.vault.provider.api.exception.VaultAccessException;
 import com.bettercloud.vault.Vault;
 import com.bettercloud.vault.VaultException;
 import org.mule.runtime.config.api.dsl.model.properties.ConfigurationPropertiesProvider;

@@ -1,9 +1,9 @@
-package com.avioconsulting.mule.vault.provider;
+package com.hackmatters.mule.vault.provider;
 
 import static org.hamcrest.MatcherAssert.assertThat;
 import static org.hamcrest.core.Is.is;
 
-import com.avioconsulting.mule.vault.util.VaultContainer;
+import com.hackmatters.mule.vault.util.VaultContainer;
 import org.junit.BeforeClass;
 import org.junit.ClassRule;
 import org.mule.functional.junit4.MuleArtifactFunctionalTestCase;

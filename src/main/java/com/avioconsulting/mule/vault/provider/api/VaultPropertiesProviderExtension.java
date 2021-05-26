@@ -1,4 +1,4 @@
-package com.avioconsulting.mule.vault.provider.api;
+package com.hackmatters.mule.vault.provider.api;
 
 import org.mule.runtime.api.component.ComponentIdentifier;
 import org.mule.runtime.api.meta.Category;

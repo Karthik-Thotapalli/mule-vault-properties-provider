@@ -1,4 +1,4 @@
-package com.avioconsulting.mule.vault.util;
+package com.hackmatters.mule.vault.util;
 
 import org.bouncycastle.asn1.x500.X500Name;
 import org.bouncycastle.asn1.x509.AlgorithmIdentifier;
@@ -54,7 +54,7 @@ import java.util.Date;
 
 /**
  * Static utility methods for generating client-side SSL certs and keys, for tests that use Vault's TLS Certificate
- * auth backend.  Right now, all such code is isolated to {@link com.avioconsulting.mule.vault.provider.VaultTLSAuthenticationTestCase}.
+ * auth backend.  Right now, all such code is isolated to {@link com.hackmatters.mule.vault.provider.VaultTLSAuthenticationTestCase}.
  */
 public class SSLUtils {
 

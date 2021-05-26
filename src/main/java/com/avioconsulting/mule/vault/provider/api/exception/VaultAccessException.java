@@ -1,4 +1,4 @@
-package com.avioconsulting.mule.vault.provider.api.exception;
+package com.hackmatters.mule.vault.provider.api.exception;
 
 public class VaultAccessException extends Exception {
     public VaultAccessException(String errorMessage, Throwable cause) {

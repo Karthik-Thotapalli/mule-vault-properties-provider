@@ -1,4 +1,4 @@
-package com.avioconsulting.mule.vault.provider.api;
+package com.hackmatters.mule.vault.provider.api;
 
 import org.mule.runtime.api.meta.model.declaration.fluent.ExtensionDeclarer;
 import org.mule.runtime.extension.api.loader.ExtensionLoadingContext;

@@ -1,6 +1,6 @@
-package com.avioconsulting.mule.vault.provider.api;
+package com.hackmatters.mule.vault.provider.api;
 
-import com.avioconsulting.mule.vault.provider.api.connection.provider.*;
+import com.hackmatters.mule.vault.provider.api.connection.provider.*;
 import org.mule.runtime.extension.api.annotation.Configuration;
 import org.mule.runtime.extension.api.annotation.connectivity.ConnectionProviders;
 

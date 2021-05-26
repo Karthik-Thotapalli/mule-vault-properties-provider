@@ -1,4 +1,4 @@
-package com.avioconsulting.mule.vault.provider.api.connection.parameters;
+package com.hackmatters.mule.vault.provider.api.connection.parameters;
 
 import org.mule.runtime.config.api.dsl.model.ConfigurationParameters;
 import org.mule.runtime.extension.api.annotation.param.ExclusiveOptionals;
